@@ -1,0 +1,19 @@
+Name,Age,City
+Alice,30,New York
+Bob,25,Los Angeles
+Charlie,35,Chicago
+,Dave,40
+Eve,29,
+Frank,45,Houston
+Grace,,Boston
+Alice,30,New York
+Bob,25,Los Angeles
+Charlie,35,Chicago
+Dave,40,Houston
+Eve,29,Phoenix
+Frank,45,San Diego
+Grace,32,Boston
+Hank,38,Seattle
+Ivy,27,Austin
+Jack,41,Miami
+
